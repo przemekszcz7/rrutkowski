@@ -1,0 +1,6 @@
+{
+  "name": "Warsztat Fryzur Robert Rutkowski",
+  "description": "Ekskluzywny warsztat fryzur męskich Roberta Rutkowskiego w Sycowie. Klasyka, tradycja i precyzja w czystej postaci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
